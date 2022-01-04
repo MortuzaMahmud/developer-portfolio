@@ -1,0 +1,36 @@
+body{
+    font-family: 'Prompt', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+span{
+    color: orangered;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(236, 182, 82), tomato);
+    color:white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 600;
+    
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
